@@ -1,0 +1,25 @@
+"category","rating_category","number_of_apps","pct_in_category"
+"Marketing","Rating < 1.0",203,19.01
+"Marketing","Rating 4.5 - 5",594,55.62
+"Marketing","Rating 4.0 - 4.4",115,10.77
+"Marketing","Rating 3.0 - 3.9",87,8.15
+"Marketing","Rating 2.0 - 2.9",34,3.18
+"Marketing","Rating 1.0 - 1.9",35,3.28
+"Orders and shipping","Rating < 1.0",234,27.27
+"Orders and shipping","Rating 4.5 - 5",413,48.14
+"Orders and shipping","Rating 4.0 - 4.4",69,8.04
+"Orders and shipping","Rating 3.0 - 3.9",64,7.46
+"Orders and shipping","Rating 2.0 - 2.9",36,4.20
+"Orders and shipping","Rating 1.0 - 1.9",42,4.90
+"Sales and conversion optimization","Rating < 1.0",262,20.25
+"Sales and conversion optimization","Rating 4.5 - 5",769,59.43
+"Sales and conversion optimization","Rating 4.0 - 4.4",108,8.35
+"Sales and conversion optimization","Rating 3.0 - 3.9",95,7.34
+"Sales and conversion optimization","Rating 2.0 - 2.9",35,2.70
+"Sales and conversion optimization","Rating 1.0 - 1.9",25,1.93
+"Store design","Rating < 1.0",395,18.93
+"Store design","Rating 4.5 - 5",1192,57.12
+"Store design","Rating 4.0 - 4.4",203,9.73
+"Store design","Rating 3.0 - 3.9",166,7.95
+"Store design","Rating 2.0 - 2.9",67,3.21
+"Store design","Rating 1.0 - 1.9",64,3.07
